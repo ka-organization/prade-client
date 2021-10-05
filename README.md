@@ -9,7 +9,7 @@
 ## Member position (in order of name)
 박병윤: Front-end developer
 
-박찬욱: Back-end developer
+김찬욱: Back-end developer
 
 송영훈: Full stack developer, UI/UX Designer
 
