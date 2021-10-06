@@ -34,7 +34,12 @@
 * Class는 가능하면 단수로 네이밍해주세요. (e.g., `User`)
 * Constant는 모두 대문자로 작성하되, 단어와 단어사이는 _로 이어주세요. (e.g., `API_KEY`)
 
+## Recommended tools
+* React development: Visual Studio Code
+* Spring Boot: IntelliJ
+* MySQL: MySQL Workbench
 
 ## ETC
+* 디자인 파일등의 기타 산출물은 Client repository에 넣습니다.
 * Back-end 개발을 제외한 모든 이슈는 Client repository에 생성해주세요. (개발의 범주를 벗어나는 논의 포함)
 * 가능하면 단톡방보다 이슈탭에서 논의를 해주기를 바랍니다.
