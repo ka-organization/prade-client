@@ -7,11 +7,11 @@
 
 
 ## Member position (in order of name)
-박병윤: Front-end developer
+박병윤([@rustiebeats](https://github.com/rustiebeats)): Front-end developer
 
-김찬욱: Back-end developer
+김찬욱([@gcw9438](https://github.com/gcw9438)): Back-end developer
 
-송영훈: Full stack developer, UI/UX Designer
+송영훈([@im-on-the-next-level](https://github.com/im-on-the-next-level)): Full stack developer, UI/UX Designer
 
 
 ## Tech stack
