@@ -20,6 +20,14 @@
 * MySQL
 * Figma (Zeplin)
 
+## Development environment
+* Node.js 14.x
+* JDK 8
+
+## Recommended tools
+* React development: Visual Studio Code
+* Spring Boot: IntelliJ
+* MySQL: MySQL Workbench
 
 ## Contribution convention
 * Issue tracking과 PR의 제목은 가능하면 영어로 작성하며, 동사원형으로 시작해야합니다.
@@ -33,11 +41,6 @@
 * Function은 동사로 시작해야합니다. (e.g., `getCash`)
 * Class는 가능하면 단수로 네이밍해주세요. (e.g., `User`)
 * Constant는 모두 대문자로 작성하되, 단어와 단어사이는 _로 이어주세요. (e.g., `API_KEY`)
-
-## Recommended tools
-* React development: Visual Studio Code
-* Spring Boot: IntelliJ
-* MySQL: MySQL Workbench
 
 ## ETC
 * 디자인 파일등의 기타 산출물은 Client repository에 넣습니다.
