@@ -16,6 +16,7 @@
 
 ## Tech stack
 * React (TypeScript)
+* Recoil
 * Spring Boot
 * MySQL
 * Figma (Zeplin)
